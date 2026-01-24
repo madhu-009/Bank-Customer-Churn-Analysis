@@ -1,0 +1,7 @@
+# Data Dictionary
+
+- This dataset consists of 10,000 customers mentioning their age, salary marital_status, credit card limit, credit card category, etc. There are nearly 18 features.
+
+- We have only 16.07% of customers who have churned. 
+
+- Updated 2 years ago (~2020).
