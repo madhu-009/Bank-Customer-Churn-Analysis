@@ -11,9 +11,31 @@ Association mining: It identifies pattern within large dataset to predict custom
 
 For Example: Low engagement + High months inactive --> More likely to Churn. 
 
+<img width="1048" height="615" alt="image" src="https://github.com/user-attachments/assets/12a07cd8-e9fb-4b8d-89fd-11421f8c7b76" />
+
+
 Clustering: It segments customers into similar groups based on their spending behaviour. 
 
+
+<img width="1919" height="1127" alt="image" src="https://github.com/user-attachments/assets/65e7de9f-a415-41f2-b826-cc8137cfbb17" />
+
+
+<img width="1045" height="613" alt="image" src="https://github.com/user-attachments/assets/0c5bb77f-1525-4e0e-b273-fbd07e58596d" />
+
+
 Regression (or) Prediction: It forecast the customers likelihood to churn.
+
+
+- Linear Regression: To Predict numericals
+  
+
+<img width="1090" height="640" alt="image" src="https://github.com/user-attachments/assets/3d1f95c2-4948-4b43-8181-edf2af25c01e" /> 
+
+
+- Logistic Regression: To predict categorical variable
+
+<img width="1090" height="642" alt="image" src="https://github.com/user-attachments/assets/173d7d9b-e20e-47c7-bb4e-57d456b175ab" />
+
 
 # Exploratory Data Analysis
 
