@@ -37,6 +37,8 @@ Regression (or) Prediction: It forecast the customers likelihood to churn.
 <img width="1090" height="642" alt="image" src="https://github.com/user-attachments/assets/173d7d9b-e20e-47c7-bb4e-57d456b175ab" />
 
 
+- Decision Tree Modeling: It is done to predict CART - Both Categorical and Regression tree. In this case as our target variable is categorical, Decision Tree Classifier is used.
+
 # Exploratory Data Analysis
 
 STEP 1: Data Cleaning: Drop useless columns, check for missing values, remove duplicated.
